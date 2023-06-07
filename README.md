@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @SoumyajitX67
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Arduino programming and ethical hacking.
-- 💻 I have learned Html,CSS,JavaScript,Python and a little bit C.
-- 📫 You can reach me with my email codingwithsharle@gmail.com.
+Rhino Search Engine is a research search engine created in HTML, CSS and JavaScript.
 
-<!---
-SoumyajitX67/SoumyajitX67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The search engine uses JavaScript to maintain the searches.Presently there are 3 searches in the database.And there are two Css style sheet,4 HTML files and 1 main JavaScript file called 'Script.js' is used to maintain the searches.
+
+Anyone can access the code in the github,In github.com/SoumyajitX67.
+
+The Rhino Search Engine is created by Soumyajit Barman.
+@Copyright 2023 SoumyajitX67
