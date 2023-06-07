@@ -1,0 +1,19 @@
+#Main{
+ margin: 0;
+ padding: 20;
+ text-align: center;
+ color: white;
+ width: 400px;
+}
+#searchbox{
+ width: 340px;
+ height: 20px;
+}
+button{
+ color: white;
+ background-color: orange;
+}
+body {
+ margin: 34px;
+ background-color: black;
+}
